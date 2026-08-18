@@ -8,8 +8,16 @@ Free beta for Windows. The current installer is unsigned.
 
 [![Watch the Presenter OBS demo](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.5/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.5/PresenterOBS-Demo-v0.2.5.mp4)
 
-Watch the 35-second silent demo: standby, recording, teaching materials, pause, wait, break and stop/save. It was
-recorded with 0.2.5 and does not show the 0.2.6 additions below.
+The 35-second silent clip above is the presenter side: standby, recording, teaching materials, pause, wait, break and
+stop/save.
+
+[![Class side output](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.6/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.6/PresenterOBS-StudentView.mp4)
+
+And this 36-second clip is the class side, recorded by the app itself: the starting screen, a lesson page, the
+please-wait screen, the break countdown and back to the lesson. The teacher's controls never appear, because they are
+excluded from the broadcast.
+
+Both clips predate 0.2.6 and do not show the additions below.
 
 ## New in 0.2.6
 
@@ -40,8 +48,15 @@ OBS 수업과 방송을 간단하게 진행할 수 있게 만든 Windows용 컨�
 
 [![Presenter OBS 사용 영상 보기](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.5/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.5/PresenterOBS-Demo-v0.2.5.mp4)
 
-35초 무음 영상에서 대기 화면, 녹화, 수업 자료, 일시정지, 잠시만, 쉬는 시간, 중지·저장 흐름을 볼 수 있습니다. 이
-영상은 0.2.5로 촬영해서 아래 0.2.6 변경점은 담겨 있지 않습니다.
+위의 35초 무음 영상은 송출자 시선입니다. 대기 화면, 녹화, 수업 자료, 일시정지, 잠시만, 쉬는 시간, 중지·저장 흐름을
+볼 수 있습니다.
+
+[![학생 시선 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.6/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.6/PresenterOBS-StudentView.mp4)
+
+아래 36초 영상은 학생 시선, 즉 앱이 직접 녹화한 송출 화면입니다. 곧 시작합니다 화면, 수업 자료, 잠시만 기다려 주세요,
+쉬는 시간 카운트다운, 그리고 다시 수업 자료로 돌아옵니다. 선생님 조작 창은 송출에서 제외되어 한 번도 보이지 않습니다.
+
+두 영상 모두 0.2.6 이전에 촬영해서 아래 변경점은 담겨 있지 않습니다.
 
 ### 0.2.6 변경점
 
