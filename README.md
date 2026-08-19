@@ -8,29 +8,33 @@ Free beta for Windows. The current installer is unsigned.
 
 **Drawing on the class screen**
 
-[![Drawing on the class screen](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Drawing-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Drawing.mp4)
+[![Drawing on the class screen](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Drawing-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Drawing.mp4)
 
 27 seconds: a freehand underline, a box, an oval and a star, a thicker line, then undo and clear.
 
 **The teacher's screen**
 
-[![Presenter side demo](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Demo-v0.2.5.mp4)
+[![Presenter side demo](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Demo-v0.2.5.mp4)
 
 35 seconds: standby, recording, teaching materials, pause, wait, break and stop/save.
 
 **What the class sees**
 
-[![Class side output](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-StudentView.mp4)
+[![Class side output](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-StudentView.mp4)
 
 36 seconds, recorded by the app itself. The teacher's controls never appear, because they are excluded from the broadcast.
 
 **A worksheet, one problem at a time**
 
-[![Worksheet crops on the broadcast](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-WorksheetCrop-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-WorksheetCrop.mp4)
+[![Worksheet crops on the broadcast](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-WorksheetCrop-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-WorksheetCrop.mp4)
 
 37 seconds: a worksheet PDF is split into separate problems, and each problem fills the class screen on its own.
 
-## New in 0.2.9
+## New in 0.2.10
+
+- Maintenance only: the console was split into separate parts internally. Features, shortcuts and screens are unchanged.
+
+## From 0.2.9
 
 - Shapes while you draw: number keys **1** freehand, **2** box, **3** oval, **4** star, and the **mouse wheel** changes
   thickness. Undo, eraser and clear stay one click away.
@@ -60,12 +64,12 @@ Free beta for Windows. The current installer is unsigned.
 
 ## Download and install
 
-1. Download `PresenterOBS-Setup-v0.2.9.exe` only from the [official v0.2.9 release](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/tag/v0.2.9).
+1. Download `PresenterOBS-Setup-v0.2.10.exe` only from the [official v0.2.10 release](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/tag/v0.2.10).
 2. Confirm the SHA-256 shown below.
 3. If Windows shows `Windows protected your PC`, select `More info`, then `Run anyway`.
 4. If `Run anyway` is unavailable, stop and ask the device administrator. Do not disable Windows security protection.
 
-SHA-256: `F9D69652C0B72A27384215817C049A7444ADD8D6ED7AA623BB1D32A5CAE8F1E1`
+SHA-256: `2247316FAC512A8AAFDFE0B7A0453AC5458C3FF2374D3B8A0C40DCFB2E3C7D67`
 
 There is no automatic update channel yet. A later version has to be downloaded and installed the same way.
 
@@ -79,27 +83,31 @@ OBS 수업과 방송을 간단하게 진행할 수 있게 만든 Windows용 컨�
 
 **학생 화면 판서**
 
-[![학생 화면 판서 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Drawing-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Drawing.mp4)
+[![학생 화면 판서 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Drawing-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Drawing.mp4)
 
 27초: 자유 밑줄, 네모, 동그라미, 별, 굵은 선, 되돌리기와 전체 지우기.
 
 **선생님 화면**
 
-[![송출자 시선 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-Demo-v0.2.5.mp4)
+[![송출자 시선 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Demo-Preview-v0.2.5.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-Demo-v0.2.5.mp4)
 
 35초: 대기 화면, 녹화, 수업 자료, 일시정지, 잠시만, 쉬는 시간, 중지·저장.
 
 **학생이 보는 화면**
 
-[![학생 시선 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-StudentView.mp4)
+[![학생 시선 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-StudentView-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-StudentView.mp4)
 
 36초, 앱이 직접 녹화한 송출 화면입니다. 선생님 조작 창은 송출에서 제외되어 한 번도 보이지 않습니다.
 
 **문제지 문항별 송출**
 
-[![문제지 crop 송출 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-WorksheetCrop-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.9/PresenterOBS-WorksheetCrop.mp4)
+[![문제지 crop 송출 영상](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-WorksheetCrop-Preview.jpg)](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/download/v0.2.10/PresenterOBS-WorksheetCrop.mp4)
 
 37초: 문제지 PDF를 문항별로 잘라 한 문제씩 학생 화면에 띄웁니다.
+
+### 0.2.10 변경점
+
+- 정리 빌드입니다. 콘솔 코드를 내부적으로 나눴을 뿐 기능·단축키·화면은 그대로입니다.
 
 ### 0.2.9 변경점
 
@@ -126,11 +134,11 @@ OBS 수업과 방송을 간단하게 진행할 수 있게 만든 Windows용 컨�
 
 ### 다운로드 및 설치
 
-1. [공식 v0.2.9 릴리스](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/tag/v0.2.9)에서 `PresenterOBS-Setup-v0.2.9.exe`를 받습니다.
+1. [공식 v0.2.10 릴리스](https://github.com/Whitening-Sinabro/presenter-obs-controller/releases/tag/v0.2.10)에서 `PresenterOBS-Setup-v0.2.10.exe`를 받습니다.
 2. 아래 SHA-256 값이 같은지 확인합니다.
 3. `Windows의 PC 보호`가 나오면 `추가 정보(More info)`를 누른 뒤 `실행(Run anyway)`을 선택합니다.
 4. `실행` 버튼이 없다면 중단하고 PC 관리자에게 문의하세요. Windows 보안 기능을 끄지 마세요.
 
-SHA-256: `F9D69652C0B72A27384215817C049A7444ADD8D6ED7AA623BB1D32A5CAE8F1E1`
+SHA-256: `2247316FAC512A8AAFDFE0B7A0453AC5458C3FF2374D3B8A0C40DCFB2E3C7D67`
 
 자동 업데이트 기능은 아직 없습니다. 다음 버전도 같은 방법으로 직접 받아 설치해야 합니다.
